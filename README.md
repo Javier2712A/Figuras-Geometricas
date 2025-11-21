@@ -2,7 +2,7 @@
 # Taller de POO - Figuras Geométricas
 
 ## Descripción del Ejercicio
-Este proyecto implementa un sistema de figuras geométricas en Python utilizando los principios de Programación Orientada a Objetos (POO): encapsulamiento, herencia y polimorfismo.
+Este proyecto implementa un sistema de figuras geométricas en python utilizando los principios de programación orientada a objetos (POO): encapsulamiento, herencia y polimorfismo.
 
 ## Estructura del Proyecto
 ```
